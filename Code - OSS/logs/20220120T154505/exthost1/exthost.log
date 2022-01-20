@@ -1,0 +1,11 @@
+[2022-01-20 15:45:07.387] [exthost] [info] Extension host with pid 9643 started
+[2022-01-20 15:45:07.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-20 15:45:07.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-20 15:45:07.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-20 15:45:07.610] [exthost] [info] Eager extensions activated
+[2022-01-20 15:45:07.611] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-20 15:45:35.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-01-20 15:45:44.020] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-20 15:45:44.026] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-20 15:46:17.901] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-20 15:46:18.919] [exthost] [info] Extension host with pid 9643 exiting with code 0
